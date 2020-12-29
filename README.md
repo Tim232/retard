@@ -4,6 +4,7 @@
 ## 목록
 
 [예시](https://retard-discord.cf/example)
+[가짜뉴스생성기](https://retard-discord.cf/fakenews)
 
 ## 매뉴얼
 
